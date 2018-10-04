@@ -1,0 +1,6 @@
+AI;t,t,t;0 games;0 wins
+d,d,d;1 games;0 wins
+c,c,c;0 games;0 wins
+b,b,b;2 games;1 wins
+a,a,a;3 games;2 wins
+Kai,kai,kai;20 games;20 wins
