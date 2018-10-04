@@ -31,7 +31,7 @@ public class NimPlayer {
 	private double ratio = 0 ;
 	/* Constructors */
 	public NimPlayer() {
-		userName = "abc";
+		userName = "abcd";
 		givenName = null;
 		familyName = null;
 		numOfGames = 0;
